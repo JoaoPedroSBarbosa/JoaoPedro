@@ -4,6 +4,8 @@
 - Atualmente estou cursando Ciência da Computação
 - Aprendendo python e C
 
+![JoaoPedroSBarbosa Status](https://github-readme-stats.vercel.app/api?username=JoaoPedroSBarbosa&show_icons=true&&theme=github_dark)
+
 ##
 
 <div> 
