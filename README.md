@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Joao Pedro
 
-- Tenho 19 anos
+- Tenho 20 anos
 - Atualmente estou cursando Ciência da Computação
 - Aprendendo python e C
 
